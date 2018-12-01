@@ -1,0 +1,50 @@
+body {
+    background-color: #fdc2cc;
+    /* background-image: url("https://media.giphy.com/media/2seGQ9JQrHzPlNgqFY/giphy.gif");
+    background-repeat: no-repeat;
+    top: 700px; */
+    
+}
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+    text-align: center;
+    text-emphasis-color: white;
+    box-shadow: black;
+    position: relative;
+    top: 30px;    
+    border: 30px;
+}
+
+.box {
+    color: aliceblue;
+    border-block-start-style: hidden;
+    border: 5px solid #fdc2cc;;
+    background-color: #2687e8;
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+    box-shadow: black;
+    font-size: 80px;
+    padding-top: 4px;
+    font-family: lato;
+}
+
+.gen {
+    position: relative;
+    left: 565px;
+    top: 40px;
+    width: 420px;
+}
+ 
+.xo {
+    width: 100px;
+    padding-top: 0px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+
